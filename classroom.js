@@ -48,7 +48,7 @@ class Classroom {
     this.students = [...students];
   }
   
-  // reset the array to an empty one
+  // reset the array to an empty one: Good!
   reset() {
     this.students = [];
   }
